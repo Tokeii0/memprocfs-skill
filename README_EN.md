@@ -185,7 +185,3 @@ MemProcFS is released under the GNU Affero General Public License v3.0. This Ski
 -   [MemProcFS Official Wiki](https://github.com/ufrisk/MemProcFS/wiki)
 -   [LeechCore Project](https://github.com/ufrisk/LeechCore)
 -   [PCILeech Project](https://github.com/ufrisk/pcileech)
-
-## Support and Feedback
-
-For issues or suggestions, please visit [MemProcFS GitHub Issues](https://github.com/ufrisk/MemProcFS/issues) or join the [PCILeech/MemProcFS Discord Community](https://discord.gg/pcileech).

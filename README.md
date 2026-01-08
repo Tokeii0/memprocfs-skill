@@ -187,6 +187,3 @@ MemProcFS 在 GNU Affero General Public License v3.0 下发布。此 Skill 为 M
 -   [LeechCore 项目](https://github.com/ufrisk/LeechCore)
 -   [PCILeech 项目](https://github.com/ufrisk/pcileech)
 
-## 支持和反馈
-
-如有问题或建议，请访问 [MemProcFS GitHub Issues](https://github.com/ufrisk/MemProcFS/issues) 或加入 [PCILeech/MemProcFS Discord 社区](https://discord.gg/pcileech)。
