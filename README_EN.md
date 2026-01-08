@@ -175,9 +175,6 @@ In Claude Code, you can start the Skill in the following ways:
 
 If the Skill does not trigger or you encounter errors, please refer to [troubleshooting.md](troubleshooting.md) for detailed solutions.
 
-## License
-
-MemProcFS is released under the GNU Affero General Public License v3.0. This Skill is supplementary documentation for MemProcFS.
 
 ## Resources
 

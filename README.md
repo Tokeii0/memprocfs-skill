@@ -176,10 +176,6 @@ M:\                           # 虚拟文件系统根目录
 
 如果 Skill 未触发或遇到错误，请参考 [troubleshooting.md](troubleshooting.md) 获取详细的解决方案。
 
-## 许可证
-
-MemProcFS 在 GNU Affero General Public License v3.0 下发布。此 Skill 为 MemProcFS 的补充文档。
-
 ## 参考资源
 
 -   [MemProcFS GitHub 项目](https://github.com/ufrisk/MemProcFS)
